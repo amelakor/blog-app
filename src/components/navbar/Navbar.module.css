@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 4rem;
+}
+.links {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+.logout {
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+}

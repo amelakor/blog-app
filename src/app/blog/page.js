@@ -1,9 +1,10 @@
 import React from 'react'
+import styles from './page.module.css'
 
-const page = () => {
+const Blog = () => {
   return (
     <div>page</div>
   )
 }
 
-export default page
+export default Blog
